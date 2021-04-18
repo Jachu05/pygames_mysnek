@@ -1,6 +1,6 @@
 # pygames_mysnek
 
-for Pyhon:
+for Python:
  - Install requirements.txt
  - Run mysneak.py
  - Enjoy.py :)
